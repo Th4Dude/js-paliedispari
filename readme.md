@@ -10,7 +10,7 @@ Creare una funzione per capire se la parola inserita è palindroma
 
 
 
-
+<!-- --------------------------------------------------------------------------------- -->
 
 Pari e Dispari
 
